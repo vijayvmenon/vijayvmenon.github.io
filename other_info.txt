@@ -1,0 +1,5 @@
+http://commons.wikimedia.org/wiki/File:Web_designer_India.jpg
+
+<link href='http://fonts.googleapis.com/css?family=Ruthie' rel='stylesheet' type='text/css'>
+
+font-family: 'Ruthie', cursive;
